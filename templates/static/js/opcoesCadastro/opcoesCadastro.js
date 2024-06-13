@@ -33,13 +33,13 @@
 
         closeModal.onclick = function() {
             modal.style.display = "none";
-            modalIframe.src = ""; // Clear the iframe src to stop the video/audio
+            modalIframe.src = ""; 
         }
 
         window.onclick = function(event) {
             if (event.target == modal) {
                 modal.style.display = "none";
-                modalIframe.src = ""; // Clear the iframe src to stop the video/audio
+                modalIframe.src = "";
             }
         }
     });

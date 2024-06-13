@@ -36,7 +36,6 @@
         });
         console.log(data);
         showNotification('Alterações salvas com sucesso!');
-        // Aqui você pode enviar os dados para o backend usando fetch ou AJAX
     }
 
     function showNotification(message) {

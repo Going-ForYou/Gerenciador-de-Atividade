@@ -1,5 +1,3 @@
-Lembrar de colocar notificação nos cadastros ("Cadastrado com sucesso!")
-Terminar PERFIL E EDITAR PERFIL MODAL 
-Terminar Home
-Iniciar tela de inscrição  
-Ver botões de presença 
+- Javascript: Padrão em inglês
+- Precisa ainda padrozinar as notificações do sistema 
+- Front finalizado

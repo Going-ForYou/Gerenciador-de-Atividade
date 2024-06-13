@@ -27,6 +27,5 @@
                     data[key] = value;
                 });
                 console.log(data);
-                // Aqui você pode enviar os dados para o backend usando fetch ou AJAX
             });
         });
